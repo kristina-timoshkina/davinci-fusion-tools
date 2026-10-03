@@ -91,6 +91,15 @@ AI использовался как инструмент разработки. 
 - интерфейс для использования на странице Edit.
 
 Статус: в разработке.
+## Скриншоты Universal Animator
+
+### Общий вид
+
+![Universal Animator — общий вид](screenshots/universal-animator-overview.png)
+
+### Transform
+
+<img src="screenshots/universal-animator-transform.png" width="520">
 
 ## Технологии и инструменты
 
