@@ -53,11 +53,10 @@ AI использовался как инструмент разработки. 
 
 ### Интерфейс инструмента
 
-![LUT Master — интерфейс](screenshots/lut-master-interface.png)
-
+<img src="screenshots/lut-master-interface.png" width="520">
 ### Input Correction
 
-![LUT Master — Input Correction](screenshots/lut-master-input-correction.png)
+<img src="screenshots/lut-master-input-correction.png" width="520">
 
 ### LUT Engine
 
@@ -69,13 +68,16 @@ AI использовался как инструмент разработки. 
 
 ### До и после
 
-Исходное изображение:
-
-![LUT Master — Before](screenshots/lut-master-before.png)
-
-Результат:
-
-![LUT Master — After](screenshots/lut-master-after.png)
+<table>
+  <tr>
+    <td align="center"><b>Before</b></td>
+    <td align="center"><b>After</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/lut-master-before.png" width="500"></td>
+    <td><img src="screenshots/lut-master-after.png" width="500"></td>
+  </tr>
+</table>
 ## Universal Animator
 
 Инструмент для быстрого управления базовой анимацией объектов в Fusion.
