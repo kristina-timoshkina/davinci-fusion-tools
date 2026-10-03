@@ -45,6 +45,37 @@ AI использовался как инструмент разработки. 
 
 Отдельно тестировалось соответствие цветовых преобразований штатным инструментам DaVinci Resolve.
 
+## Скриншоты LUT Master
+
+### Общий вид
+
+![LUT Master — общий вид](screenshots/lut-master-overview.png)
+
+### Интерфейс инструмента
+
+![LUT Master — интерфейс](screenshots/lut-master-interface.png)
+
+### Input Correction
+
+![LUT Master — Input Correction](screenshots/lut-master-input-correction.png)
+
+### LUT Engine
+
+![LUT Master — LUT Engine](screenshots/lut-master-lut-engine.png)
+
+### Texture
+
+![LUT Master — Texture](screenshots/lut-master-texture.png)
+
+### До и после
+
+Исходное изображение:
+
+![LUT Master — Before](screenshots/lut-master-before.png)
+
+Результат:
+
+![LUT Master — After](screenshots/lut-master-after.png)
 ## Universal Animator
 
 Инструмент для быстрого управления базовой анимацией объектов в Fusion.
