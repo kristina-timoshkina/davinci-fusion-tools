@@ -101,26 +101,6 @@ AI использовался как инструмент разработки. 
 
 <img src="screenshots/universal-animator-transform.png" width="520">
 
-На GitHub это должно превратиться в настоящую схему со стрелками.
-
-То есть порядок в README будет такой:
-
-```text
-LUT Master
-↓
-Скриншоты LUT Master
-↓
-Universal Animator
-↓
-Скриншоты Universal Animator
-↓
-Логика LUT Master
-↓
-Технологии и инструменты
-↓
-Статус
-↓
-Примечание
 ## Логика LUT Master
 
 Основные этапы обработки внутри инструмента:
@@ -134,6 +114,8 @@ flowchart LR
     E --> F[Texture]
     F --> G[Look Mix]
     G --> H[Result]
+```
+
 ## Технологии и инструменты
 
 - DaVinci Resolve
